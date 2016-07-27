@@ -3,7 +3,7 @@ IBM MobileFirst Platform Foundation
 
 ## Using SocialLogin sample
 This application is demonstrating how to perform PreEmptive log-in with 'socialLogin' scope, and then call an adapter which is protected with this scope.  
-This application is using the [social-login](../social-login-security-check/README.md) security check adapter and the [HelloSocialUserAdapter](../HelloSocialUserAdapter/README.md) adapter.
+This application is using the [social-login-security-check](../social-login-security-check/README.md) security check adapter and the [HelloSocialUserAdapter](../HelloSocialUserAdapter/README.md) adapter.
 
 ### Prerequisites
 
