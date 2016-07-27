@@ -10,7 +10,7 @@
 
 #### Cloning the Git repository
 
-* Clone [this Git repository](https://github.com/mfpdev/social-login-sample)
+* Clone this Git repository
 
 * From the above repository you will need three folders:
 
