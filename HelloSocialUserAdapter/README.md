@@ -2,7 +2,7 @@ IBM MobileFirst Platform Foundation
 ===
 
 ## Using HelloSocialUser Adapter
-This sample adapter demonstrates the [social-login](../social-login-security-check/README.md) security check.  The adapter has one REST API /hello which is protected with scope named `socialLogin`.
+This sample adapter demonstrates the [social-login-security-check](../social-login-security-check/README.md) security check.  The adapter has one REST API /hello which is protected with scope named `socialLogin`.
 This adapter can be tested using the following Android app [SocialLoginApp](../SocialLoginApp/README.md).
 
 ## Implementation
