@@ -2,7 +2,7 @@
 * [Installed Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Registered Facebook Android App](https://developers.facebook.com/docs/android/getting-started)
 * [Registered Google Sign-In App for Android](https://developers.google.com/identity/sign-in/android/start-integrating#get-config)
-* [Installed Android Studio](Registered Facebook OAuth 2.0 Android App)
+* [Installed Android Studio](https://developer.android.com/studio/install.html)
 * [Installed MobileFirst development environment](https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/setting-up-your-development-environment/mobilefirst-development-environment/)
 
 ## Running the sample
