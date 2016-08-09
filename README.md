@@ -54,6 +54,7 @@
   * IBM MobileFirst Platform gives you several options for deploying [adapters](https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/adapters/).
   * For each of the adapter above ([Social Login security check](./social-login-security-check) and [HelloSocialUser Adapter](./HelloSocialUserAdapter)) do the following:
     * Open command line in the root folder of the adapter.
+    * Run `mfpdev adapter build`
     * Run `mfpdev adapter deploy`
 
 
